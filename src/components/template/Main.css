@@ -1,0 +1,173 @@
+div.card {
+  margin-top: 575px;
+  display: grid;
+  grid-template-columns: 404px 404px 404px;
+
+  padding-bottom: 5vh;
+}
+div.card-aws {
+  width: 376px;
+  height: 388px;
+  margin-left: 28px;
+
+  /* position: absolute; */
+
+  background: #ffffff;
+}
+div.card-js {
+  width: 376px;
+  height: 388px;
+  margin-left: 28px;
+  margin-top: 0px;
+
+  /* position: absolute; */
+
+  background: #ffffff;
+}
+div.card-java {
+  width: 376px;
+  height: 388px;
+  margin-left: 28px;
+
+  /* position: absolute; */
+
+  background: #ffffff;
+}
+
+span.title-aws {
+  width: 260px;
+  height: 59px;
+  margin-left: 13px;
+  top: 140px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 59px;
+
+  color: #000000;
+}
+span.title-java {
+  width: 268px;
+  height: 59px;
+  margin-left: 13px;
+  top: 140px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 59px;
+
+  color: #000000;
+
+}
+span.title-js {
+  width: 199px;
+  height: 59px;
+  margin-left: 13px;
+  top: 140px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 59px;
+
+  color: #000000;
+}
+p.subtitle-java {
+  width: 283px;
+  height: 72px;
+  margin-left: 13px;
+  top: 218px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+p.subtitle-aws {
+  width: 283px;
+  height: 72px;
+  margin-left: 13px;
+  top: 218px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+p.subtitle-js {
+  width: 283px;
+  height: 72px;
+  margin-left: 13px;
+  top: 218px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+button.btn-card-java {
+  width: 179px;
+  height: 60px;
+  margin-left: 188px;
+  top: 319px;
+  border: none;
+
+  background: #8DC63F;
+  border-radius: 20px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #0C3455;
+}
+button.btn-card-aws{
+  width: 179px;
+  height: 60px;
+  margin-left: 188px;
+  top: 319px;
+  border: none;
+
+  background: #8DC63F;
+  border-radius: 20px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #0C3455;
+}
+button.btn-card-js {
+  width: 179px;
+  height: 60px;
+  margin-left: 188px;
+  top: 319px;
+  border: none;
+
+  background: #8DC63F;
+  border-radius: 20px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #0C3455;
+}
